@@ -1,0 +1,53 @@
+# 🌿 EcoTrend
+
+**EcoTrend** é um projeto de e-commerce focado na venda de roupas e acessórios sustentáveis. A proposta do site é promover o consumo consciente e apresentar uma alternativa mais ecológica para quem busca estilo aliado à sustentabilidade.
+
+---
+
+## 📸 Preview
+
+> *![alt text](image.png)*
+
+---
+
+## 🚀 Funcionalidades
+
+- Catálogo de produtos sustentáveis
+- Página inicial com destaque para campanhas e lançamentos
+- Layout responsivo para dispositivos móveis
+- Design moderno utilizando Bootstrap
+- Navegação simples e intuitiva
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- [Bootstrap 5]
+- Bootstrap Icons
+
+---
+
+## 📦 Como rodar o projeto localmente
+
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/Henrique0602/EcoTrend.git
+
+2. **Entre no repositório**:
+   ```bash
+   cd EcoTrend
+
+3. **Abra o visual**:
+   ```bash
+   code .
+
+4. **Instale o icon no terminal**:
+   ```bash
+  npm install bootstrap-icons
+
+
+📫 Contato
+
+Desenvolvido por Henrique Farah Brigo 553323 / Eric Koigim Navarrete Yang 563290/ Guilherme Guimaraes Dos Reis Sousa 564226
